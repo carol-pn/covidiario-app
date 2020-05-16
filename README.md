@@ -1,4 +1,4 @@
-# **CovidDiario**
+# **CoviDiario**
 
 ## **Proposta**
 
