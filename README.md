@@ -4,21 +4,15 @@
 
 Durante este difícil período que estamos passando, nunca foi tão complexo se organizar (Trabalho, tarefas de casa, limitações de espaço...)
 
-O CovidFreeTime auxiliaria o usuário exatamente nessa questão: Organizar o seu dia.<br/>O App terá como principal objetivo ajudar o usuário a criar uma rotina e ter bem definido o que é trablho e quando deve aproveitar o seu *free Time*.
+O CovidFreeTime auxiliaria o usuário exatamente nessa questão: Organizar o seu dia.<br/>O App terá como principal objetivo ajudar o usuário a criar uma rotina e ter bem definido o que é trabalho e quando deve aproveitar o seu *free Time*.
 
 O App será totalmente free e terá seu código disponibilizado na internet.
 
 ## **Uso**
 
-O usuário deverá inserir o seu horário de trabalho, como por exemplo, 9 - 16.<br/>
-Com esse dado o App será capaz de sugerir atividades, que foram previamente selecionadas pelo usuário como interessantes, para que ele as realize em seu tempo livre, sendo elas:
-* Meditação
-* Filmes
-* Séries
-* Esportes
-* Alongamentos<br/>
+O app no momento funciona como uma agenda para visualizacao da semana (mes e dias) e para o usuário adicionar tarefas que serão vistas abaixo do calendário, de modo que seus afazeres ficam bem organizados. Para adicionar uma tarefa basta entrar na pagina com o "+" e completar as informações.
 
-Ao final de uma semana utilizando o App, o usuário terá a opção de visualizar quais e quantas atividades praticou.
+Implementações futuras permitiriam que o próprio aplicativo fizesse sugestões de atividades durante seu dia, de acordo como os horários já preenchidos da sua agenda.
 
 
 #**FIQUEEMCASA**
