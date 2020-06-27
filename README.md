@@ -14,5 +14,8 @@ O app no momento funciona como uma agenda para visualizacao da semana (mes e dia
 
 Implementações futuras permitiriam que o próprio aplicativo fizesse sugestões de atividades durante seu dia, de acordo como os horários já preenchidos da sua agenda.
 
+## **anotações da autora**
+A implementação não está aperfeiçoada. Para atualizar a lista na tela inicial algumas vezes é necessário reiniciar o aplicativo. Dentre as coisas que eu pretendia fazer estavam a importaçao do dia selecionado direto na task e a visualização das tasks na tela inicial seriam filtradas por dia, porém, no intuito de entregar esse trabalho assim que possível, não foram feitas. 
+
 
 #**FIQUEEMCASA**
